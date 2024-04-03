@@ -1,0 +1,1 @@
+This project aims to develop a Human Resources (HR) analysis dashboard using Power BI to help organizations improve employee performance and retention. By leveraging data analytics, the dashboard provides valuable insights into various HR metrics, enabling informed decision-making to enhance employee satisfaction and reduce turnover rates.
